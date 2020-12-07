@@ -6,3 +6,4 @@
 * ## [Day 4](https://adventofcode.com/2020/day/4) - Stars Collected (2/2)
 * ## [Day 5](https://adventofcode.com/2020/day/5) - Stars Collected (2/2)
 * ## [Day 6](https://adventofcode.com/2020/day/6) - Stars Collected (2/2)
+* ## [Day 7](https://adventofcode.com/2020/day/7) - Stars Collected (2/2)
