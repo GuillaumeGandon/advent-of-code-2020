@@ -18,3 +18,8 @@
 * ## [Day 16](https://adventofcode.com/2020/day/16) - Stars Collected (2/2)
 * ## [Day 17](https://adventofcode.com/2020/day/17) - Stars Collected (2/2)
 * ## [Day 18](https://adventofcode.com/2020/day/18) - Stars Collected (2/2)
+* ## [Day 19](https://adventofcode.com/2020/day/19) - Stars Collected (2/2)
+* ## [Day 20](https://adventofcode.com/2020/day/20) - Stars Collected (2/2)
+* ## [Day 21](https://adventofcode.com/2020/day/21) - Stars Collected (2/2)
+* ## [Day 22](https://adventofcode.com/2020/day/22) - Stars Collected (2/2)
+* ## [Day 23](https://adventofcode.com/2020/day/23) - Stars Collected (2/2)
